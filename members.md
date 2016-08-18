@@ -1,7 +1,7 @@
 Adventurers
 ===
 
-Ondřej Dobeš
-Tom Trval
-Radek Fiľakovský
-Jan Karakevas
+* Ondřej Dobeš
+* Tom Trval
+* Radek Fiľakovský
+* Jan Karakevas
