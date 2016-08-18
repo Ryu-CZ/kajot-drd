@@ -5,3 +5,4 @@ Adventurers
 * Tom Trval
 * Radek Fiľakovský
 * Jan Karakevas
+* Monika Nešporová
